@@ -1,0 +1,1 @@
+# springsecurity-basicauthentication-sample
