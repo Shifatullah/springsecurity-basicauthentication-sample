@@ -8,6 +8,7 @@
 
 # Dependencies
 
+- JDK 1.8
 - Spring Boot 2.0.3
 - Spring Security 5.0.6
 - Spring MVC 5.0.7
