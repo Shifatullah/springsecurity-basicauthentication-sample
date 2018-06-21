@@ -1,4 +1,4 @@
-# Basic HTTP Authentication with Spring Security Sample
+# Basic HTTP Authentication with Spring Security sample
 
 - Basic http authentication using Spring Security
 - Spring MVC with JSP view layer
